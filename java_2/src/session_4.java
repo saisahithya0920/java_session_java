@@ -20,7 +20,7 @@ public class session_4 {
             float f2 = 10.0f/3;
             System.out.println(f2);
     
-            String str = "Hasmi";
+            String str = "sai";
             System.out.println(str);
     
             //Arithematic opeartor
@@ -51,7 +51,7 @@ public class session_4 {
             if(5 > 1) {
                 System.out.println("5 is greater than 1");
             } else {
-                System.out.println("noooooo");
+                System.out.println("no");
             }
     
     
